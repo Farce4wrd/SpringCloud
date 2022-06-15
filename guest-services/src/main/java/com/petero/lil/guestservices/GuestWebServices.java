@@ -1,6 +1,5 @@
 package com.petero.lil.guestservices;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -12,7 +11,6 @@ public class GuestWebServices {
 	
 	private final GuestRepository repository;
 	
-	@Autowired
 	public GuestWebServices(GuestRepository repository) {
 		this.repository = repository;
 	}
