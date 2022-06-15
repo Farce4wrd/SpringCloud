@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6474a18b-8a0e-4679-8d16-027caa4dd44a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/guestservices.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/reservationservices.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/roomservices.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbdata/reservation-services/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbdata/reservation-services/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbdata/room-services/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbdata/room-services/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/petero/lil/guestservices/Guest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/petero/lil/guestservices/GuestRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/petero/lil/guestservices/GuestServicesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/main/java/com/petero/lil/guestservices/GuestWebServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guest-services/src/test/java/com/petero/lil/guestservices/GuestServicesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/src/main/java/com/petero/lil/reservationservices/ReservationServicesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reservation-services/src/test/java/com/petero/lil/reservationservices/ReservationServicesApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Aavpz6B5EE7xvkTRaZhorJ7hHO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6474a18b-8a0e-4679-8d16-027caa4dd44a" name="Changes" comment="" />
+      <created>1655260699426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655260699426</updated>
+    </task>
+    <servers />
+  </component>
+</project>
